@@ -1,0 +1,7 @@
+{
+  "name": "NutriLens AI",
+  "description": "A smart calorie calculator using multi-modal input to track your daily intake.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
